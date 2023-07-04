@@ -1,13 +1,16 @@
-# WindowShop
+## Study project 01 - JS Practice
 
-Проект выполнен при прохождении курса "Практический JavaScript" на площадке Udemy.
-Верстка и стили были предоставлены.
-Мною были созданы след. модули:
-  1. Модуль tabs - переключение активного таба и его стиля
-  2. Модуль timer - показ обратного отсчета до конца срока акции
-  3. Модуль modals - модальные окна
-  4. Модуль images - показ изображений (разворачивание превьюшек)
-  5. Модуль forms - получение и отправка (AJAX) всех заполненных форм на странице
-  6. Модуль checkNumInputs - форма валидации input
-  7. Модуль changeModalState - калькулятор с выбором формы и размера окна
-  8. Модуль calcScroll - технический модуль, который убирает "баг" скачек экрана при открытии модального окна
+In this project I practiced:
+1. JavaScript
+2. AJAX
+3. Animate.css
+4. Gulp
+
+Demo: [windowShopIrvas website](https://getscared.github.io/windowShopIrvas/dist/index.html)
+
+### To run this project locally:
+
+1. clone with git clone https://github.com/olga-volga/js-practice-01.git
+2. cd irvas_windows
+3. npm install
+4. gulp
