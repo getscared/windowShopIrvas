@@ -6,7 +6,7 @@ In this project I practiced:
 3. Animate.css
 4. Gulp
 
-Demo: [windowShopIrvas website](https://getscared.github.io/windowShopIrvas/dist/index.html)
+Demo: [windowShopIrvas website](https://getscared.github.io/windowShopIrvas/)
 
 ### To run this project locally:
 
